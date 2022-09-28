@@ -2,11 +2,8 @@
 ## Simple asset packing plugin for Unreal Engine 4
 ___
 
-&nbsp;
-
 **compakt** is an easy to use plugin for Unreal Engine 4 which exports assets as `.upack` files (Feature/Content packs) which can be easily imported into another project and retains dependencies.
 
-&nbsp;
 
 [Installation](#installation)
 
@@ -15,7 +12,6 @@ ___
 [Notes](#notes)
 
 
-&nbsp;
 
 ## Installation
 
