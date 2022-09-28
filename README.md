@@ -8,11 +8,11 @@ ___
 
 &nbsp;
 
-Installation
+[Installation](#installation)
 
-Usage
+[Usage](#usage)
 
-Notes
+[Notes](#notes)
 
 
 &nbsp;
@@ -30,7 +30,10 @@ https://user-images.githubusercontent.com/1897654/192807409-31ffe943-2027-438c-a
 Importing is also easy, just like with any other assets: either import or drag-n-drop into the Content Browser!
 
 https://user-images.githubusercontent.com/1897654/192807552-74f2a782-9bc1-4e9d-825d-067169ee92de.mp4
+___
 
+## Notes
 
+The plugin was mainly tested in Unreal Engine 4.27, however it might work in other versions.
 
-
+There might be some bugs or incomplete features. As such, don't hesitate to submit an issue report.
