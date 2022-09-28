@@ -1,0 +1,69 @@
+C:\Users\agorcea\Documents\Unreal Projects\Plugins\Plugins\compakt\Intermediate\Build\Win64\UE4Editor\Development\compakt\Definitions.compakt.h
+C:/Users/agorcea/Documents/Unreal Projects/Plugins/Plugins/compakt/Source/compakt/Private/compakt.cpp
+C:\Users\agorcea\Documents\Unreal Projects\Plugins\Plugins\compakt\Source\compakt\Public\compakt.h
+C:\Users\agorcea\Documents\Unreal Projects\Plugins\Plugins\compakt\Source\compakt\Public\compaktStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+C:\Users\agorcea\Documents\Unreal Projects\Plugins\Plugins\compakt\Source\compakt\Public\compaktCommands.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenus.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\IToolMenusModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenu.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuOwner.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuOwner.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuMisc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuMisc.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuDelegates.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuSection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntry.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuSection.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/ToolMenuBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/BlacklistNames.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ToolMenuBase.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenu.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntryScript.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntryScript.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenus.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\FileHelpers.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\DesktopPlatform/Public/IDesktopPlatform.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\DesktopPlatform/Public/DesktopPlatformModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/AssetTools/Public/IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Editor\ContentBrowser\Public\IContentBrowserSingleton.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Developer/AssetTools/Public/AssetTypeCategories.h
+C:/Users/agorcea/Documents/Unreal Projects/Plugins/Plugins/compakt/Source/compakt/Private/compaktCommands.cpp
+C:/Users/agorcea/Documents/Unreal Projects/Plugins/Plugins/compakt/Source/compakt/Private/compaktStyle.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

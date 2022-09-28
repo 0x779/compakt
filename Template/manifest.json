@@ -1,0 +1,38 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Compakt package"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": ""
+		}
+	],
+	"AssetTypes":
+	[
+		{
+			"Language": "en",
+			"Text": ""
+		}
+	],	
+	"SearchTags":
+	[
+		{
+			"Language": "en",
+			"Text": ""
+		}
+	],
+	"Category": "BlueprintFeature",
+	"FocusAsset": "",
+	"Thumbnail": "",
+	"Screenshots":
+	[
+	]
+
+}

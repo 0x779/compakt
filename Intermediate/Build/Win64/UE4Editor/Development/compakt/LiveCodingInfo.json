@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.compakt.cpp.obj": [
+			"compakt.cpp.obj",
+			"compaktCommands.cpp.obj",
+			"compaktStyle.cpp.obj"
+		]
+	}
+}

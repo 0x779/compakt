@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-compakt-7570.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\agorcea\Documents\Unreal Projects\Plugins\Intermediate\Build\Win64\PluginsEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\agorcea\Documents\Unreal Projects\Plugins\Plugins\compakt\Intermediate\Build\Win64\UE4Editor\Development\compakt\Module.compakt.cpp.obj"
+"C:\Users\agorcea\Documents\Unreal Projects\Plugins\Plugins\compakt\Intermediate\Build\Win64\UE4Editor\Development\compakt\Default.rc2.res"
+/OUT:"C:\Users\agorcea\Documents\Unreal Projects\Plugins\Plugins\compakt\Intermediate\Build\Win64\UE4Editor\Development\compakt\UE4Editor-compakt-7570.lib"
