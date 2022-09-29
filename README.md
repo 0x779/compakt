@@ -15,7 +15,7 @@ ___
 
 ## Installation
 
-Simply clone or download the repository and place the resulting folder in your project's `Plugins` directory.
+Check out the [releases](https://github.com/0x779/compakt/releases/), download **compakt** for your Unreal Engine version, extract and place the resulting folder in your project's `Plugins` directory.
 ___
 ## Usage
 
@@ -30,6 +30,6 @@ ___
 
 ## Notes
 
-The plugin was mainly tested in Unreal Engine 4.27, however it might work in other versions.
+The plugin was mainly tested in Unreal Engine 4.27 and Unreal Engine 5.0.3, however it might work in other versions.
 
 There might be some bugs or incomplete features. As such, don't hesitate to submit an issue report.
