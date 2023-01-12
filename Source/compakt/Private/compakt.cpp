@@ -76,6 +76,8 @@ void FcompaktModule::PluginButtonClicked()
 		FString selectedFolder = *Folders[0];
 		selectedFolder.RemoveAt(0, 6, true);
 		UE_LOG(LogTemp, Warning, TEXT("selected folder: %s"), *selectedFolder);
+		ContentDir += *selectedFolder;
+		CompaktContentDir += *selectedFolder;
 
 		// Save all dirty packages (unsaved assets)
 		bool bSaved = FEditorFileUtils::SaveDirtyPackages(false, true, true, false, false, true, nullptr);
@@ -140,6 +142,8 @@ void FcompaktModule::PluginButtonClicked()
 			FText::FromString(TEXT("compakt.cpp"))
 		);
 		FMessageDialog::Open(EAppMsgType::Ok, DialogText);
+
+		
 
 	}
 	else {
